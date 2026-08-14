@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Python Distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Model Files
+*.pth
+*.pt
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+
+# PyTorch Lightning
+lightning_logs/
+
+# TensorBoard
+runs/
